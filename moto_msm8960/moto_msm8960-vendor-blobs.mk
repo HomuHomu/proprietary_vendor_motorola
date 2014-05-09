@@ -132,4 +132,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/xt897/lib/libaudcal.so:system/xt897/lib/libaudcal.so \
     vendor/motorola/moto_msm8960/proprietary/xt897/etc/firmware/atmxt-r2.tdat:system/xt897/etc/firmware/atmxt-r2.tdat \
     vendor/motorola/moto_msm8960/proprietary/xt901/lib/libqmiservices.so:system/xt901/lib/libqmiservices.so \
-    vendor/motorola/moto_msm8960/proprietary/xt901/lib/libril-qc-qmi-1.so:system/xt901/lib/libril-qc-qmi-1.so
+    vendor/motorola/moto_msm8960/proprietary/xt901/lib/libril-qc-qmi-1.so:system/xt901/lib/libril-qc-qmi-1.so \
+    vendor/motorola/moto_msm8960/proprietary/felica/app/FeliCaLock.apk:system/app/FeliCaLock.apk \
+    vendor/motorola/moto_msm8960/proprietary/felica/app/MobileFeliCaClient.apk:system/app/MobileFeliCaClient.apk \
+    vendor/motorola/moto_msm8960/proprietary/felica/app/MobileFeliCaMenuApp.apk:system/app/MobileFeliCaMenuApp.apk \
+    vendor/motorola/moto_msm8960/proprietary/felica/app/MobileFeliCaSettingApp.apk:system/app/MobileFeliCaSettingApp.apk \
+    vendor/motorola/moto_msm8960/proprietary/felica/app/MobileFeliCaWebPluginBoot.apk:system/app/MobileFeliCaWebPluginBoot.apk \
+    vendor/motorola/moto_msm8960/proprietary/felica/bin/enc_mgt_tool:system/bin/enc_mgt_tool \
+    vendor/motorola/moto_msm8960/proprietary/felica/bin/tcmd:system/bin/tcmd \
+    vendor/motorola/moto_msm8960/proprietary/felica/etc/felica/common.cfg:system/etc/felica/common.cfg \
+    vendor/motorola/moto_msm8960/proprietary/felica/etc/felica/mfm.cfg:system/etc/felica/mfm.cfg \
+    vendor/motorola/moto_msm8960/proprietary/felica/etc/felica/mfs.cfg:system/etc/felica/mfs.cfg \
+    vendor/motorola/moto_msm8960/proprietary/felica/lib/libdataencrypt_utils.so:system/lib/libdataencrypt_utils.so \
+    vendor/motorola/moto_msm8960/proprietary/felica/lib/libfelicasrv_jni.so:system/lib/libfelicasrv_jni.so
+
+
